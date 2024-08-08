@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Aka Lucifer</h1>
-<h3 align="center">A Passionate 17 year old Fron-tend Developer</h3> <img align="right" alt="coding" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<h3 align="center">A Passionate 17 year old Front-End Developer</h3> <img align="right" alt="coding" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
-- 🔭 I’m currently working with **an Start-up**
+- 🔭 I’m currently Finding an Job Role in **Web Development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Cyber Security & Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **A Web Project**
 
-- 🤝 I’m looking for help with **fro**
+- 🤝 I’m looking to help in **Web Project**
 
 - 👨‍💻 All of my projects are available at [https://77lucifer.github.io/Portfolio/](https://77lucifer.github.io/Portfolio/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Experience [1 year Experience in front-end dev](1 year Experience in front-end dev)
 
-- ⚡ Fun fact **I'm in 11th Standard**
+- ⚡ Fun fact **Coding and Coffee Go Hand-in-Hand'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
