@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Aka Lucifer</h1>
-<h3 align="center">A Passionate 17 year old Front-End Developer</h3> <img align="right" alt="coding" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<h3 align="center">A Passionate 18 year old  Developer & Learner , Explorer </h3> <img align="right" alt="coding" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
-- 🔭 I’m currently Finding an Job Role in **Web Development**
+- 🔭 I’m Exploring Learning Defferent Fields Mainly CyberSecurity & Bug Hunting i 
 
-- 🌱 I’m currently learning **Cyber Security & Ethical Hacking**
+- 🌱 I’m currently also learning **Cyber Security & Ethical Hacking**
 
-- 👯 I’m looking to collaborate on **A Web Project**
-
-- 🤝 I’m looking to help in **Web Project**
+- 👯 Open to collaborate on **Any Intrested Project**
 
 - 👨‍💻 All of my projects are available at [https://77lucifer.github.io/Portfolio/](https://77lucifer.github.io/Portfolio/)
-
-- 💬 Ask me about **js, gsap, locomotive**
 
 - 📫 How to reach me **lucifer17860@gmail.com**
 
